@@ -16,7 +16,7 @@ Date:
 - Description:
 
 2. IVSCC Pipeline Metrics
-- Date: 3/1/2022
+- Date: 3/1/2022 - Present
 - Description:
 
 3. User Metrics
@@ -24,7 +24,7 @@ Date:
 - Description:
 
 4. Nucleus Retrieval Metrics
-- Date: 1/1/2021
+- Date: 1/1/2021 - Present
 - Description:
 
 5. Collaborator Shipments
